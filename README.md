@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**ysdesilva21/ysdesilva21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yohani S. De Silva 👋
 
-Here are some ideas to get you started:
+🚀 Self-taught developer | Aspiring future entrepreneur  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about building scalable digital products  
+
+---
+
+## 💻 Tech & Tools
+- **Languages:** Python, JavaScript  
+- **Web:** HTML5, CSS3, React  
+
+---
+
+## 📂 Projects
+- **MindSync** – AI-driven productivity platform (in progress)  
+
+---
+
+## 🎨 Hobbies & Interests
+- Digital art & 3D modeling  
+- Game designing  
+- Reading books  
+
+---
+
+> "Learning, building, and creating—one project at a time."
