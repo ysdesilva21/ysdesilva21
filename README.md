@@ -13,15 +13,18 @@ Passionate about building scalable digital products
 
 ---
 
-## 📂 Projects
-- **MindSync** – AI-driven productivity platform (in progress)  
-
----
 ## 🎓 Certifications
 
 - 🏆 Responsive Web Design – freeCodeCamp  
   🔗 [View Certificate](https://www.freecodecamp.org/certification/ysdesilva21/responsive-web-design-v9)
+  
 ---
+
+## 📂 Projects
+- **MindSync** – AI-driven productivity platform (in progress)  
+
+---
+
 
 ## 🎨 Hobbies & Interests
 - Digital art & 3D modeling  
