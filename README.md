@@ -9,7 +9,8 @@ Passionate about building scalable digital products
 
 ## 💻 Tech & Tools
 - **Languages:** Python, JavaScript  
-- **Web:** HTML5, CSS3, React  
+- **Web:** HTML5, CSS3, React
+- **desktop:** Electron.js  
 
 ---
 
