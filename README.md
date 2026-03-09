@@ -4,6 +4,7 @@
 🚀 Self-taught developer | Aspiring future entrepreneur  
 
 Passionate about building scalable digital products  
+portfolio - https://ysdesilva21.github.io/personal-portfolio/
 
 ---
 
