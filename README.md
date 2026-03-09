@@ -22,7 +22,8 @@ Passionate about building scalable digital products
 ---
 
 ## 📂 Projects
-- **MindSync** – AI-driven productivity platform (in progress)  
+- **MindSync** – AI tool for productivity
+- **TaskIQ** - Offline-first desktop task manager app 
 
 ---
 
