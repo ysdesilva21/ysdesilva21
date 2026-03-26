@@ -23,8 +23,7 @@ portfolio - https://ysdesilva21.github.io/personal-portfolio/
 ---
 
 ## 📂 Projects
-- **MindSync** – AI tool for productivity
-- **TaskIQ** - Offline-first desktop task manager app 
+-  
 
 ---
 
