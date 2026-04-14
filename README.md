@@ -1,5 +1,5 @@
 
-# Hi, I'm Yohani S. De Silva 👋
+# Hi, I'm Sanju De Silva 👋
 
 🚀 Self-taught developer | Aspiring future entrepreneur  
 
