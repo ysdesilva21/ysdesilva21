@@ -114,7 +114,7 @@ Currently studying:
 ## 📫 Connect
 
 - Portfolio *(Coming Soon)*
-- LinkedIn: linkedin.com/in/sanjudesilva
+- LinkedIn: linkedin.com/in/ysdesilva21
 - Email: sanjudesilva.dev@gmail.com
 
 ---
