@@ -1,84 +1,122 @@
 # Hi, I'm Sanju De Silva 👋
 
-🚀 Self taught frontend developer focused on building modern digital experiences and scalable products.
-
-Currently learning deeply about:
-- JavaScript internals
-- React ecosystem
-- Frontend architecture
-- UI/UX systems
-- Performance optimization
-
-Building projects while preparing for frontend engineering roles, freelancing, and future digital products.
+Frontend Developer focused on building modern, accessible, and human-centered web experiences with React and TypeScript.
+I'm passionate about turning thoughtful UI/UX into fast, responsive, and scalable products while continuously improving my frontend engineering skills.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
-- JavaScript
+
+- JavaScript (ES6+)
+- TypeScript
 - HTML5
 - CSS3
-- TypeScript (learning)
 
 ### Frontend
+
 - React
 - Tailwind CSS
 - Vite
+### Design
 
-### Tools & Platforms
-- Git & GitHub
 - Figma
+- Design Systems
+- Responsive Design
+- UI/UX Design
+- Accessibility
+
+### Tools
+
+- Git & GitHub
 - Vercel
+- VS Code
 
 ---
 
 ## 📂 Featured Projects
 
-### Veloura Cafe
-An editorial style modern café website focused on premium UI/UX, responsive design, and performance optimization.
+### Meridian Health *(In Progress)*
 
-**Tech:** React, Tailwind CSS, Vite
+A modern healthcare appointment platform focused on reducing friction between patients and healthcare providers through human-centered design.
 
-Features:
-- Parallax hero section
-- Responsive editorial layout
-- Interactive gallery
-- Reservation form validation
-- Dynamic open-hours system
-- Performance-focused image optimization
+**Tech:** React, TypeScript, Tailwind CSS, Vite
+
+Highlights:
+
+- Responsive landing page
+- Design system implementation
+- Accessibility-first approach
+- Performance-focused architecture
+- Component-driven development
+- Human-centered UX
+
+---
 
 ### MindSyncAI *(In Progress)*
-A productivity and focus-tracking platform exploring deep work, mood tracking, and personal performance systems.
+
+A productivity platform exploring focus management, mood tracking, task organization, and personal insights.
+
+**Tech:** React, TypeScript, Supabase, Tailwind CSS
+
+Highlights:
+
+- Authentication with Supabase
+- Modern dashboard architecture
+- Mood & productivity tracking
+- Responsive UI
 
 ---
 
-## 🎓 Certifications
+## 🎓 Learning
 
-- Frontend developer professional Certification - Meta
+Currently studying:
+
+- Advanced JavaScript
+- React Architecture
+- TypeScript
+- Frontend Performance
+- Accessibility
+- Design Systems
+
+---
+
+## 📜 Certifications
+
+- Meta Front-End Developer Professional Certificate *(In Progress)*
 - Responsive Web Design — freeCodeCamp
+- Harvard CS50x *(In Progress)*
 
 ---
 
-## 📖 Current Focus
+## 🌱 Currently Building
 
-- Frontend interview preparation
-- Advanced JavaScript concepts
-- React architecture patterns
-- Building portfolio grade products
-- UI/UX research and design systems
-
----
-
-## 🎨 Interests
-
-- Digital product design
-- Psychology & philosophy
-- Developer systems
-- AI & human centered technology
-- Editorial style interfaces
-- Reading & long-form learning
+- Portfolio-quality frontend projects
+- Reusable component systems
+- Modern React applications
+- Freelance-ready websites
+- UI/UX case studies
 
 ---
 
-> “Learning deeply. Building deliberately.”
+## 📚 Interests
+
+- Frontend Engineering
+- Human-Centered Design
+- Psychology
+- Philosophy
+- Artificial Intelligence
+- Product Design
+
+---
+
+## 📫 Connect
+
+- Portfolio *(Coming Soon)*
+- LinkedIn: linkedin.com/in/sanjudesilva
+- Email: sanjudesilva.dev@gmail.com
+
+---
+
+> *Building products that people enjoy using.*
