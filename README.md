@@ -1,122 +1,28 @@
-# Hi, I'm Sanju De Silva 👋
+<div align="center">
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0d&height=180&section=header&text=Sanju%20De%20Silva&fontSize=42&fontColor=e8e6e1&fontAlignY=55&animation=fadeIn" width="100%" />
 
-Frontend Developer focused on building modern, accessible, and human-centered web experiences with React and TypeScript.
-I'm passionate about turning thoughtful UI/UX into fast, responsive, and scalable products while continuously improving my frontend engineering skills.
+## Sanju De Silva
+Frontend Developer & UI/UX Designer
 
----
+Building thoughtful, human-centered digital experiences.  
+React · TypeScript · Tailwind CSS · GSAP
 
-## 🚀 Tech Stack
+<br>
 
-### Languages
+<div style="display: flex; justify-content: center; gap: 12px;">
+  <a href="https://www.linkedin.com/in/ysdesilva21"><img src="https://img.shields.io/badge/LinkedIn-e8e3e1?style=for-the-badge&logoColor=0b0b0d" alt="LinkedIn" /></a>
+  <a href="https://x.com/ysdesilva21"><img src="https://img.shields.io/badge/X-e8e3e1?style=for-the-badge&logo=x&logoColor=0b0b0d" alt="X" /></a>
+  <a href="mailto:sanjudesilva.dev@gmail.com"><img src="https://img.shields.io/badge/Email-e8e3e1?style=for-the-badge&logo=gmail&logoColor=0b0b0d" alt="Email" /></a>
+</div>
 
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
+</div>
 
-### Frontend
+### About Me
 
-- React
-- Tailwind CSS
-- Vite
-### Design
+- **Currently building:** Real-world projects while growing as a freelance developer
+- **Currently learning:** Deepening frontend skills, exploring full-stack development, and AI integration
+- **Open to collaborate on:** Web applications, AI integrations, and open-source projects
+- **Philosophy nerd:** I read philosophy for fun and turn "what if?" into side projects
 
-- Figma
-- Design Systems
-- Responsive Design
-- UI/UX Design
-- Accessibility
-
-### Tools
-
-- Git & GitHub
-- Vercel
-- VS Code
-
----
-
-## 📂 Featured Projects
-
-### Meridian Health *(In Progress)*
-
-A modern healthcare appointment platform focused on reducing friction between patients and healthcare providers through human-centered design.
-
-**Tech:** React, TypeScript, Tailwind CSS, Vite
-
-Highlights:
-
-- Responsive landing page
-- Design system implementation
-- Accessibility-first approach
-- Performance-focused architecture
-- Component-driven development
-- Human-centered UX
-
----
-
-### MindSyncAI *(In Progress)*
-
-A productivity platform exploring focus management, mood tracking, task organization, and personal insights.
-
-**Tech:** React, TypeScript, Supabase, Tailwind CSS
-
-Highlights:
-
-- Authentication with Supabase
-- Modern dashboard architecture
-- Mood & productivity tracking
-- Responsive UI
-
----
-
-## 🎓 Learning
-
-Currently studying:
-
-- Advanced JavaScript
-- React Architecture
-- TypeScript
-- Frontend Performance
-- Accessibility
-- Design Systems
-
----
-
-## 📜 Certifications
-
-- Meta Front-End Developer Professional Certificate *(In Progress)*
-- Responsive Web Design — freeCodeCamp
-- Harvard CS50x *(In Progress)*
-
----
-
-## 🌱 Currently Building
-
-- Portfolio-quality frontend projects
-- Reusable component systems
-- Modern React applications
-- Freelance-ready websites
-- UI/UX case studies
-
----
-
-## 📚 Interests
-
-- Frontend Engineering
-- Human-Centered Design
-- Psychology
-- Philosophy
-- Artificial Intelligence
-- Product Design
-
----
-
-## 📫 Connect
-
-- Portfolio *(Coming Soon)*
-- LinkedIn: linkedin.com/in/ysdesilva21
-- Email: sanjudesilva.dev@gmail.com
-
----
-
-> *Building products that people enjoy using.*
+### Tech Stack
