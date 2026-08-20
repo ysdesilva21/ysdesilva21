@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0d&height=180&section=header&text=Sanju%20De%20Silva&fontSize=42&fontColor=e8e6e1&fontAlignY=55&animation=fadeIn" width="100%" />
+<img src="" width="100%" />
 
 ## Sanju De Silva
 Frontend Developer & UI/UX Designer
