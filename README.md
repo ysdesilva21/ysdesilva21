@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Banner -->
-<img src="" width="100%" />
+<img src="Social Banner.webp" width="100%" />
 
 ## Sanju De Silva
 Frontend Developer & UI/UX Designer
