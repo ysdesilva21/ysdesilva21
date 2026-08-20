@@ -26,8 +26,6 @@ I'm a self-taught frontend developer and UI/UX designer focused on building thou
 
 ### Tech Stack
 
-### Tech Stack
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-e8e3e1?style=for-the-badge&logo=html5&logoColor=0b0b0d" alt="HTML5" />
