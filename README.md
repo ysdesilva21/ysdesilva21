@@ -12,19 +12,9 @@ React · TypeScript · Tailwind CSS · GSAP
 
 <br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ysdesilva21">
-    <img src="https://img.shields.io/badge/LinkedIn-e8e3e1?style=for-the-badge&logo=linkedin&logoColor=0b0b0d" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/ysdesilva21">
-    <img src="https://img.shields.io/badge/X-e8e3e1?style=for-the-badge&logo=x&logoColor=0b0b0d" alt="X" />
-  </a>
-  <a href="mailto:sanjudesilva.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-e8e3e1?style=for-the-badge&logo=gmail&logoColor=0b0b0d" alt="Email" />
-  </a>
-</div>
+<div style="display: flex; justify-content: center; gap: 12px;"> <a href="https://www.linkedin.com/in/ysdesilva21"><img src="https://img.shields.io/badge/LinkedIn-e8e3e1?style=for-the-badge&logoColor=0b0b0d" alt="LinkedIn" /></a> <a href="https://x.com/ysdesilva21"><img src="https://img.shields.io/badge/X-e8e3e1?style=for-the-badge&logo=x&logoColor=0b0b0d" alt="X" /></a> <a href="mailto:sanjudesilva.dev@gmail.com"><img src="https://img.shields.io/badge/Email-e8e3e1?style=for-the-badge&logo=gmail&logoColor=0b0b0d" alt="Email" /></a> </div>
 
-</div align='center'>
+</div align="center">
 
 ### About Me
 
