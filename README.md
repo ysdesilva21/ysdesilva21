@@ -26,6 +26,8 @@ I'm a self-taught frontend developer and UI/UX designer focused on building thou
 
 ### Tech Stack
 
+### Tech Stack
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-e8e3e1?style=for-the-badge&logo=html5&logoColor=0b0b0d" alt="HTML5" />
@@ -38,6 +40,7 @@ I'm a self-taught frontend developer and UI/UX designer focused on building thou
 <br>
 
 <img src="https://img.shields.io/badge/SQL-e8e3e1?style=for-the-badge&logo=postgresql&logoColor=0b0b0d" alt="SQL" />
+<img src="https://img.shields.io/badge/Supabase-e8e3e1?style=for-the-badge&logo=supabase&logoColor=0b0b0d" alt="Supabase" />
 <img src="https://img.shields.io/badge/GSAP-e8e3e1?style=for-the-badge&logo=greensock&logoColor=0b0b0d" alt="GSAP" />
 <img src="https://img.shields.io/badge/Git-e8e3e1?style=for-the-badge&logo=git&logoColor=0b0b0d" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-e8e3e1?style=for-the-badge&logo=github&logoColor=0b0b0d" alt="GitHub" />
