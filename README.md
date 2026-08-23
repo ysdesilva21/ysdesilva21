@@ -7,7 +7,7 @@
 
 Frontend Developer & UI/UX Designer
 
-Building thoughtful, human-centered digital experiences.  
+Building distinctive landing pages and brand-led websites.
 React · TypeScript · Tailwind CSS · GSAP
 
 <br>
