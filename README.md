@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="Social Banner.webp" width="100%" />
+<img src="Github.png" width="100%" />
 
 ## Sanju De Silva
 
