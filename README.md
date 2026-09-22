@@ -5,27 +5,32 @@
 
 ## Sanju De Silva
 
-Frontend Developer & UI/UX Designer
+Product Designer & Frontend Developer
 
-Building distinctive landing pages and brand-led websites.
+Building distinctive landing pages, SaaS products, and brand-led digital experiences.
 
-React · TypeScript · Tailwind CSS · GSAP
+React · TypeScript · Tailwind CSS · GSAP · Figma
 
 <br>
 
-<div style="display: flex; justify-content: center; gap: 12px;"> <a href="https://www.linkedin.com/in/ysdesilva21"><img src="https://img.shields.io/badge/LinkedIn-e8e3e1?style=for-the-badge&logoColor=0b0b0d" alt="LinkedIn" /></a> <a href="https://x.com/ysdesilva21"><img src="https://img.shields.io/badge/X-e8e3e1?style=for-the-badge&logo=x&logoColor=0b0b0d" alt="X" /></a> <a href="mailto:sanjudesilva.dev@gmail.com"><img src="https://img.shields.io/badge/Email-e8e3e1?style=for-the-badge&logo=gmail&logoColor=0b0b0d" alt="Email" /></a> </div>
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;"> 
+  <a href="https://www.linkedin.com/in/ysdesilva21"><img src="https://img.shields.io/badge/LinkedIn-e8e3e1?style=for-the-badge&logoColor=0b0b0d" alt="LinkedIn" /></a> 
+  <a href="https://x.com/ysdesilva21"><img src="https://img.shields.io/badge/X-e8e3e1?style=for-the-badge&logo=x&logoColor=0b0b0d" alt="X" /></a> 
+  <a href="mailto:sanjudesilva.dev@gmail.com"><img src="https://img.shields.io/badge/Email-e8e3e1?style=for-the-badge&logo=gmail&logoColor=0b0b0d" alt="Email" /></a> 
+  <a href="./Sanju-desilva-resume.pdf"><img src="https://img.shields.io/badge/Download_CV-e8e3e1?style=for-the-badge&logo=googledocs&logoColor=0b0b0d" alt="Download CV" /></a> 
+</div>
 
 </div align="center">
 
 ### About Me
 
-I'm a self-taught frontend developer and UI/UX designer focused on building thoughtful, human-centered digital experiences. Currently, I'm working on real-world projects while growing as a freelance developer. My current focus is deepening my frontend skills, exploring full-stack development, and learning how AI can be integrated into modern digital products. I'm open to collaborating on web design and development projects, design audits, and open-source projects.
+I'm a product designer and frontend developer focused on building thoughtful, human-centered digital experiences. I combine product thinking, UI/UX design, and frontend implementation to turn ideas into functional products. Currently, I'm working on real-world projects, building landing pages, and exploring how AI can be integrated into modern digital products. I'm open to collaborating on web design and development projects, UI/UX design, and open-source projects.
 
-- Self-studying JavaScript Essentials 1 & 2 through Cisco Networking Academy
-- Growing as a freelance developer
+- Building SaaS landing pages and digital product concepts
+- Upskilling through rigorous self-study (CS50, frontend engineering)
 - Reading psychology, philosophy, and literature for personal interest
 
-### Tech Stack
+### Tech & Tools
 
 <div align="center">
 
@@ -38,8 +43,6 @@ I'm a self-taught frontend developer and UI/UX designer focused on building thou
 
 <br>
 
-<img src="https://img.shields.io/badge/SQL-e8e3e1?style=for-the-badge&logo=postgresql&logoColor=0b0b0d" alt="SQL" />
-<img src="https://img.shields.io/badge/Supabase-e8e3e1?style=for-the-badge&logo=supabase&logoColor=0b0b0d" alt="Supabase" />
 <img src="https://img.shields.io/badge/GSAP-e8e3e1?style=for-the-badge&logo=greensock&logoColor=0b0b0d" alt="GSAP" />
 <img src="https://img.shields.io/badge/Git-e8e3e1?style=for-the-badge&logo=git&logoColor=0b0b0d" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-e8e3e1?style=for-the-badge&logo=github&logoColor=0b0b0d" alt="GitHub" />
