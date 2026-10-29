@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="Github.png" width="100%" />
+<img src="Cover.png" width="100%" />
 
 ## Sanju De Silva
 
